@@ -1,18 +1,17 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-lastmod: 2021-04-01T00:00:00
-bg_image: "images/feature-bg.jpg"
-layout: "faq"
-draft: false
+title: Frequently Asked Questions
+description: this is meta description
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
+lastmod: '2021-04-01T00:00:00.000+00:00'
+bg_image: images/feature-bg.jpg
+layout: faq
 menu:
   main:
-    parent: "More"
-    name: "FAQ"
-    weight: 3
----
+    name: FAQ
+    parent: More
+    weight: 18
 
+---
 ### Welcome to Airspace!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
